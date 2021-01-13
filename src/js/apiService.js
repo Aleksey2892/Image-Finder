@@ -22,5 +22,6 @@ function fetchImages(search) {
       throw err;
     });
 }
+//
 
 export { fetchImages, pageNumber };
